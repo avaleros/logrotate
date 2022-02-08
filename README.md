@@ -1,5 +1,5 @@
 # Logrotate
-##What is?
+## What is?
 
 It's a fundamental and necessary tool, but not only if you work as a system administrator, which in that case is necessary and justified. The need for logs is unquestionable. You need to have information about what happens in the teams you manage. You keep all this information in records, in logs. However, you cannot save it forever, because it takes up space, and your goal is not to fill your file system with this information, but you need to keep as many records as possible, to know for sure what is happening.
 
